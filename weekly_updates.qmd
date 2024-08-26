@@ -1,0 +1,9 @@
+---
+jupyter: python3
+---
+
+# Weekly Updates
+
+## Week 1 (August 26 \~ August 30)
+
+No updates yet! Everyone's started working on their data sets.

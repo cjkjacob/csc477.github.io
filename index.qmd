@@ -1,0 +1,16 @@
+---
+jupyter: python3
+---
+
+# Preface {.unnumbered}
+
+This is the Quarto book for Group 4. This group consists of Samuel Zelaya, Diego Mendoza, Janice Oenardi, and Chris Karottukoikal.
+
+Here's an overview of the topics each of the group members have chosen:
+
+-   Samuel Zelaya \> NASA Earth Data <https://www.earthdata.nasa.gov/>
+-   Diego Mendoza \>
+-   Janice Oenardi \> Federal Reserve Economic Data <https://fred.stlouisfed.org/>
+-   Chris Jacob K \> US Census Data <https://data.census.gov/>
+
+In the weekly updates section, you'll be able to see the weekly updates for each of these projects.
