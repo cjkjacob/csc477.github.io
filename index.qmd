@@ -9,8 +9,8 @@ This is the Quarto book for Group 4. This group consists of Samuel Zelaya, Diego
 Here's an overview of the topics each of the group members have chosen:
 
 -   Samuel Zelaya \> NASA Earth Data <https://www.earthdata.nasa.gov/>
--   Diego Mendoza \>
+-   Diego Mendoza \> US Department of Agriculture Data <http://www.nal.usda.gov>
 -   Janice Oenardi \> Federal Reserve Economic Data <https://fred.stlouisfed.org/>
--   Chris Jacob K \> US Census Data <https://data.census.gov/>
+-   Chris Jacob K \> NCES Data <https://nces.ed.gov/datatools/>
 
 In the weekly updates section, you'll be able to see the weekly updates for each of these projects.

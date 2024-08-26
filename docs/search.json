@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CSC477-Group-4",
+    "section": "",
+    "text": "Preface\nThis is the Quarto book for Group 4. This group consists of Samuel Zelaya, Diego Mendoza, Janice Oenardi, and Chris Karottukoikal.\nHere’s an overview of the topics each of the group members have chosen:\n\nSamuel Zelaya &gt; NASA Earth Data https://www.earthdata.nasa.gov/\nDiego Mendoza &gt; US Department of Agriculture Data http://www.nal.usda.gov\nJanice Oenardi &gt; Federal Reserve Economic Data https://fred.stlouisfed.org/\nChris Jacob K &gt; NCES Data https://nces.ed.gov/datatools/\n\nIn the weekly updates section, you’ll be able to see the weekly updates for each of these projects.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "weekly_updates.html",
+    "href": "weekly_updates.html",
+    "title": "1  Weekly Updates",
+    "section": "",
+    "text": "1.1 Week 1 (August 26 ~ August 30)\nNo updates yet! Everyone’s started working on their data sets.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "weekly_updates.html#week-1-august-26-august-30",
+    "href": "weekly_updates.html#week-1-august-26-august-30",
+    "title": "1  Weekly Updates",
+    "section": "",
+    "text": "1.1.1 Notes from Chris on Monday (Aug 26)\nOur first task is going to be to create a documentation on the data sets that we have chosen. Let’s work on getting information on the data, the formats it’s available in, the data represented, the data points collected, and even the extent of data provided in each of the sets.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Weekly Updates</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]

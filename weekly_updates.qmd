@@ -7,3 +7,9 @@ jupyter: python3
 ## Week 1 (August 26 \~ August 30)
 
 No updates yet! Everyone's started working on their data sets.
+
+### Notes from Chris on Monday (Aug 26)
+
+Our first task is going to be to create a documentation on the data sets that we have chosen. Let's work on getting information on the data, the formats it's available in, the data represented, the data points collected, and even the extent of data provided in each of the sets.
+
+
